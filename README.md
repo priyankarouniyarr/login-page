@@ -1,7 +1,12 @@
 # login1
 
+<<<<<<< HEAD
 A new Flutter project. first one
 
+=======
+A new Flutter project .
+  A login page
+>>>>>>> fbc9ff9e39f54266cf0a1e1413d14191f52a71fc
 
 ## Getting Started
 
