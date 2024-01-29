@@ -1,7 +1,5 @@
 # login1
 
-<<<<<<< HEAD
-
 
 A new Flutter project .
   A login page
